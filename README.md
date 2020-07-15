@@ -4,16 +4,15 @@
 <br/>
  <a href="https://www.linkedin.com/in/karthik-mohan-/">
     <img align="left" img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg">
-  </a>
-
-<a href="https://www.reddit.com/user/MasterPrestigeNuts/">
-  <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
-<a href="https://leetcode.com/">
-  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>  
+<a href="https://www.reddit.com/user/MasterPrestigeNuts/">
+    <img align="left" img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/reddit.svg">
+</a>
+<a href="https://steamcommunity.com/id/nemesisfarey/">
+    <img align="left" img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/steam.svg">
+</a>
   
-![](https://visitor-badge.glitch.me/badge?page_id=8bithemant.8bithemant)
+<-- ![](https://visitor-badge.glitch.me/badge?page_id=8bithemant.8bithemant) -->
 
 <br />
 
