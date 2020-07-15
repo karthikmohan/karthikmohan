@@ -10,7 +10,7 @@
     <img align="left" img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/steam.svg">
 </a>
 <br />
-
+<br />
 ### Hi 🙋‍♂️,
 ### I'm 25 years old Software/Mobile Application Developer from Chennai, India.
 
