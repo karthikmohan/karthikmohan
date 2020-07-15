@@ -1,4 +1,8 @@
 ### Hi there, I'm [Karthik Mohan!](https://github.com/karthikmohan) 👋.
+<br />
+
+<img align="right" height="270px" width="450px" src="https://github.com/karthikmohan/karthikmohan/blob/master/Images/and.jpg"/>
+<br />
 
 <br />
  <a href="https://www.linkedin.com/in/karthik-mohan-/">
@@ -13,8 +17,6 @@
 <br />
 <br />
 
-https://img.shields.io/github/downloads/karthikmohan/NASA-POTD/total
-
 ### Hi 🙋‍♂️,
 ### I'm a 25 year old Software/Mobile Application Developer from Chennai, India.
 
@@ -24,4 +26,4 @@ https://img.shields.io/github/downloads/karthikmohan/NASA-POTD/total
 
 ***********************************
 
-#### Thank You-🙏🏼
+#### Thank You 🙏🏼
