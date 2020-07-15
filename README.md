@@ -2,7 +2,7 @@
 <br />
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/karthikmohan/karthikmohan/blob/master/Images/and.jpg">
+  <src="https://github.com/karthikmohan/karthikmohan/blob/master/Images/and.jpg">
 </p>
 
 <br />
