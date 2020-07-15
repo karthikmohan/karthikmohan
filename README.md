@@ -1,4 +1,5 @@
-___
+<div class="bg-blue-light mb-2">
+
 <br />
 
 <div align="center">
@@ -42,4 +43,4 @@ I am a computer science engineer and have experience in working in many startups
 
 #### Thank You 🙏🏼
 </div>
-___
+</div>
