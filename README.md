@@ -31,6 +31,7 @@ I am a computer science engineer and have experience in working in many startups
 
 <div align="center">
 <img src="https://github.com/karthikmohan/karthikmohan/blob/master/Images/IMG_20180523_101655_Bokeh.jpg" >
+ <p>My Setup </p>
  </div>
 ***********************************
 
