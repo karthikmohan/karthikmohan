@@ -1,9 +1,10 @@
 ### Hi there, I'm [Karthik Mohan!](https://github.com/karthikmohan) 👋.
 <br />
 
-<p align="center">
-  <src="https://github.com/karthikmohan/karthikmohan/blob/master/Images/and.jpg">
-</p>
+<div align="center">
+<img src=https://github.com/karthikmohan/karthikmohan/blob/master/Images/and.jpg" >
+<p>Perfectly balanced</p>
+</div>
 
 <br />
 
