@@ -2,12 +2,10 @@
 
 
 <br/>
- <a href="#">
-    <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:16px 14px">
+ <a href="https://www.linkedin.com/in/karthik-mohan-/">
+    <img align="left" img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg">
   </a>
-<a href="https://www.linkedin.com/in/karthik-mohan-/">
-  <img align="left" alt="Linkedin" width="35px" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" />
-</a>
+
 <a href="https://www.reddit.com/user/MasterPrestigeNuts/">
   <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
