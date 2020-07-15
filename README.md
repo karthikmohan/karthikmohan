@@ -39,5 +39,4 @@ I am a computer science engineer and have experience in working in many startups
 <div align="center">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQkfhSAC0zAY1-y679fP6zusxkA9tc18bK7fQ&usqp=CAU" >
  </div>
-
 #### Thank You 🙏🏼
