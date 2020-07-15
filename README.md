@@ -35,6 +35,9 @@ I am a computer science engineer and have experience in working in many startups
 <img src="https://github.com/karthikmohan/karthikmohan/blob/master/Images/IMG_20180523_101655_Bokeh.jpg" >
  <p> ***My Setup*** </p>
  </div>
-***********************************
+
+<div align="center">
+<img src="https://www.clipartmax.com/middle/m2H7i8d3A0i8N4i8_blurb-decorative-line-divider-png/" >
+ </div>
 
 #### Thank You 🙏🏼
