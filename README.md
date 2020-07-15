@@ -5,13 +5,13 @@
 
 <br />
  <a href="https://www.linkedin.com/in/karthik-mohan-/">
-    <img align="left" img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg">
 </a>
 <a href="https://www.reddit.com/user/MasterPrestigeNuts/">
-    <img align="left" img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/reddit.svg">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/reddit.svg">
 </a>
 <a href="https://steamcommunity.com/id/nemesisfarey/">
-    <img align="left" img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/steam.svg">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/steam.svg">
 </a>
 
 </div>
