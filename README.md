@@ -3,7 +3,7 @@
 <div align="center">
 <img src="https://github.com/karthikmohan/karthikmohan/blob/master/Images/and.jpg" >
  
-### Hi there, I'm [Karthik Mohan!]() 👋.
+### Hi there, I'm [Karthik Mohan!](https://github.com/karthikmohan/) 👋.
 
 <br />
  <a href="https://www.linkedin.com/in/karthik-mohan-/">
@@ -37,7 +37,7 @@ I am a computer science engineer and have experience in working in many startups
  </div>
 
 <div align="center">
-<img src="https://www.clipartmax.com/middle/m2H7i8d3A0i8N4i8_blurb-decorative-line-divider-png/" >
+<img src="https://img.pngio.com/decorative-lines-png-images-vectors-and-psd-files-free-free-png-ornamental-lines-260_260.png" >
  </div>
 
 #### Thank You 🙏🏼
