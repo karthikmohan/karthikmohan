@@ -1,5 +1,5 @@
 ### Hi there, I'm [Karthik Mohan!](https://github.com/karthikmohan) 👋.
-<br/>
+
  <a href="https://www.linkedin.com/in/karthik-mohan-/">
     <img align="left" img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg">
 </a>
