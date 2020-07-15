@@ -3,8 +3,6 @@
  
 ### Hi there, I'm [Karthik Mohan!](#) 👋.
 
-</div>
-
 <br />
  <a href="https://www.linkedin.com/in/karthik-mohan-/">
     <img align="left" img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg">
@@ -15,6 +13,8 @@
 <a href="https://steamcommunity.com/id/nemesisfarey/">
     <img align="left" img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/steam.svg">
 </a>
+
+</div>
 <br />
 
 ### Hi 🙋‍♂️,
