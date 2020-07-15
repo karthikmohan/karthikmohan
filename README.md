@@ -22,10 +22,8 @@
 ### I'm a 25 year old Software/Mobile Application Developer from Chennai, India.
 <br />
 
-<div style="text-align: justify">
 I am a computer science engineer and have experience in working in many startups as software/mobile application developer and research👨‍💻. Interested in making life easier by creating utility tools. Fascinated about new and emerging tech.
-<div>
- 
+
 - 🔭 I’m currently working on android sdk, custom rom developement, information security research and flutter.
 - 🌱 I’m currently learning competitive coding.
 - ⚡  Available for Freelance projects/internship opportunities.
