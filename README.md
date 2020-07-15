@@ -2,7 +2,7 @@
 <br />
 
 <div align="center">
-<img src=https://github.com/karthikmohan/karthikmohan/blob/master/Images/and.jpg" >
+<img src="https://github.com/karthikmohan/karthikmohan/blob/master/Images/and.jpg" >
 <p>Perfectly balanced</p>
 </div>
 
