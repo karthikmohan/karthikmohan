@@ -1,7 +1,10 @@
 ### Hi there, I'm [Karthik Mohan!](https://github.com/karthikmohan) 👋.
 <br />
 
-<img align="centre" width="350px" width="450px" src="https://github.com/karthikmohan/karthikmohan/blob/master/Images/and.jpg"/>
+<p align="center">
+  <img width="460" height="300" src="https://github.com/karthikmohan/karthikmohan/blob/master/Images/and.jpg">
+</p>
+
 <br />
 
 <br />
