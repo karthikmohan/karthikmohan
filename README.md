@@ -24,9 +24,9 @@
 
 I am a computer science engineer and have experience in working in many startups as software/mobile application developer and research👨‍💻. Interested in making life easier by creating utility tools. Fascinated about new and emerging tech.
 
-- 🔭 I’m currently working on android sdk, custom rom developement, information security research and flutter.
-- 🌱 I’m currently learning competitive coding.
-- ⚡  Available for Freelance projects/internship opportunities.
+- 🔭 I’m currently working on android sdk, custom rom developement, information security research.
+- 🌱 I’m currently learning flutter and competitive coding.
+- ⚡ Available for Freelance projects/internship opportunities.
   
 <br />
 <!-- [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=karthikmohan&hide=["stars","contribs"]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats) -->
