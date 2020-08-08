@@ -12,7 +12,7 @@
 <a href="https://www.reddit.com/user/MasterPrestigeNuts/">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/reddit.svg">
 </a>
-<a href="https://steamcommunity.com/id/nemesisfarey/">
+<a href="https://steamcommunity.com/id/ozias/">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/steam.svg">
 </a>
 
