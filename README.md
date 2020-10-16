@@ -26,7 +26,7 @@ I am a computer science engineer and have experience from working in many compan
 
 - 🔭 I’m currently working on android sdk, custom rom developement, information security research.
 - 🌱 I’m currently learning flutter and competitive coding.
-- ⚡ Available for Freelance projects/internship opportunities.
+- ⚡ Available for Ful Time Opportunities.
 - ✨ Avid Gamer (Platform - PC/PS4) (If you want to play with me, hit me up on steam).
 - 😎 Cheers!
   
