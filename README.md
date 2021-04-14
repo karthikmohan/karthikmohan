@@ -19,7 +19,7 @@
 </div>
 
 ### Hi 🙋‍♂️,
-### I'm a 25 year old Software/Mobile Application Developer from Chennai, India.
+### I'm a 26 year old Software/Mobile Application Developer from Chennai, India.
 <br />
 
 I am a computer science engineer and have experience from working in many companies as a software/mobile application developer and research👨‍💻. Interested in making life easier by creating utility tools. Fascinated about new and emerging tech.
