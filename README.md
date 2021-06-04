@@ -18,14 +18,14 @@
 
 </div>
 
-### Hi 🙋‍♂️,
+### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,
 ### I'm a 26 year old Software/Mobile Application Developer from Tamil Nadu, India.
 <br />
 
 A computer science engineer with experience as a mobile/software application developer and information security researcher in various companies and institutes 👨🏾‍💻. Interested in building utility resources to make life simpler. I'm fascinated by modern and evolving technology.
 
-- 🔭 I’m currently working on android sdk, custom rom developement, information security research.
-- 🌱 I’m currently learning flutter and competitive coding.
+- 🔭 I’m currently working on Android SDK, Custom Rom Developement and Information Security Research.
+- 🌱 I’m currently learning [Flutter](https://flutter.dev/), [Jetpack Compose](https://developer.android.com/jetpack/compose) and Competitive Coding.
 - ⚡ Available for Full Time Opportunities.
 - ✨ Avid Gamer (Platform - PC/PS4) (If you want to play with me, hit me up on steam).
 - 😎 Cheers!
