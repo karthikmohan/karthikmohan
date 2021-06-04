@@ -38,6 +38,8 @@ A computer science engineer with experience as a mobile/software application dev
  <p> *** My Setup *** </p>
  </div>
 
+![](https://komarev.com/ghpvc/?username=karthikmohan&color=brightgreen&style=flat)
+
 <div align="center">
 <img src="https://github.com/karthikmohan/karthikmohan/blob/master/Images/bottom_bar.gif" >
 </div>
