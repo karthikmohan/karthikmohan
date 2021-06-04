@@ -28,7 +28,8 @@ A computer science engineer with experience as a mobile/software application dev
 - ⚡ Available for Full Time Opportunities.
 - ✨ Avid Gamer (Platform - PC/PS4) (If you want to play with me, hit me up on steam).
 - 😎 Cheers!
-- ![](https://komarev.com/ghpvc/?username=karthikmohan&color=brightgreen&style=flat)
+
+<!-- - ![](https://komarev.com/ghpvc/?username=karthikmohan&color=brightgreen&style=flat) -->
   
 <br />
 
